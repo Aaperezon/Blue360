@@ -12,11 +12,11 @@ Nuestra estratégia y compromiso con el usuario es presentarles una app con un d
 Con el proyecto de Super App, BBVA buscará adentrarse en nuevos mercados y para tener éxito, una negociación exitosa con los partners es un factor clave de éxito. BBVA podrá valerse en la negociación de su buena reputación como institución confiable y segura para la conversión de empresas en clientes de banca corporativa. Por otra parte, las empresas Partner deberán ver en BBVA la posibilidad de ofertar sus servicios a la base de clientes de BBVA y de sentirse seguros de que podrán cobrar sus servicios a través de una plataforma segura.
 
 ## Integrantes:
- - Aarón Perez
+ - Aarón Perez Ontiveros
+ - Alejandro Hidalgo Badillo
  - Kimberly Atara Lopez V.
  - Emmanuel del Rio S
  - Marisol de la Tijera M.
- - Alejandro
 
 Descripción de servicios distintivos:
 
